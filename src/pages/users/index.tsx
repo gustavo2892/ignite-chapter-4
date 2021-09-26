@@ -46,7 +46,7 @@ export default function UserList() {
             </Button>
           </Flex>
         
-          <Table colorSchema="whiteAlpha">
+          <Table colorschema="whiteAlpha">
             <Thead>
               <Tr>
                 <Th px="6" color="gray.300" width="8">
